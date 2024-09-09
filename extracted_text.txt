@@ -1,0 +1,286 @@
+Ergebnisübersicht2
+51.Das aktuelle CO2e-Minderungsziel für 2030
+2.Beitrag digitaler Technologien zum Klimaziel 2030 –  insgesamt
+4.Beitrag digitaler Technologien zum Klimaziel 2030 –  Sektoren
+5.Absolute CO2e-Einsparpotenziale
+6.Relativer Beitrag innerhalb der Sektoren
+7.Marktdurchdringung der digitalen Technologien3.Beitrag digitaler Technologien zum Klimaziel 2030 –  entlang 
+von CO2e-Projektionen
+Anmerkungen: a) CO2e = Kohlenstoffdioxidäquivalente (Die Treibhausgase werden entsprechend ihrer klimaschädlichen Wirkung in die Berechnungsgröß e CO2e »übersetzt«); b) Auch Treibhausgasminderungsziele 
+genannt; c) Das Klimaschutzgesetz befindet sich derzeit in Überarbeitung. Das Gesamtminderungsziel soll durch geplante Anpassung en der sektorspezifischen Ziele gestärkt werden; d) Grundlage des berechneten 
+Wirtschaftswachstums sind die Werte zwischen 1991 und 2022; Quellen: 1) UBA (2023j) ; 2) Deutscher Bundestag (2023a) ; 3) Bundesregierung (2023) ; 4) BMJ & BfJ (2019) ; 5) DESTATIS (2023b) ; 6) DESTATIS (2023a) .Ambitioniertes Klimaziel für Deutschland: Die jährlichen CO2e-Emissionen müssen 
+bis 2030 um 308 MT sinkenDas aktuelle CO2e-Minderungsziel für 2030
+6Die Bundesregierung hat 2021 mit der Novellierung des 
+Klimaschutzgesetzes von 2019 das Klimaziel gesetzt, bis 2030 65% weniger Treibhausgase im Vergleich zu 1990 auszustoßen, was einer Reduktion auf 438 Mio. MT CO
+2-Äquivalente (CO2ea) 
+entspricht.1Bis 2045 soll CO2e-Neutralität erreicht werden.2,3Neben 
+dem Gesamtminderungszielb, gibt es auch Ziele und erforderliche 
+Maßnahmen pro Wirtschaftssektor.3,4,c
+Rückblick – In den letzten 32 Jahren (1990 –2022) hat Deutschland 
+seine Emissionen um 40,4% reduziert2, während das BIP in diesem 
+Zeitraum um ca. 197% gewachsen ist.1,5,6,d
+Minderungsziel –Um das Klimaziel 2030 zu erreichen, muss die 
+Jahresemission in 2030, gegenüber 2022, um 308 MT CO2e reduziert 
+werden.b
+Ziel der Studie – Mit dieser Studie soll konkret das Potenzial 
+digitaler Technologien für den Klimaschutz benannt und so das Erreichen des Klimaziels 2030 unterstützt werden.Aktuelles CO2e-Minderungsziel in Deutschland für 2030
+438
+MT CO2e2022 2030
+1.251
+MT CO2e1990
+746
+MT CO2e 
+Aktuell: Durchschnittlich 
+16 MT CO2e weniger emittiert als im VorjahrZiel: Durchschnittlich 
+39 MT CO2e weniger emittieren als im Vorjahr
+Die Reduktionsgeschwindigkeit muss um den Faktor 2,5 erhöht werden, 
+damit das Klimaziel 2030 erreicht werden kann.308  MT CO2e
+MinderungszielDigitalisierung als wichtiger Hebel: Digitale Technologien können 24% zum Erreichen 
+des deutschen Klimaziels 2030 beitragenBeitrag digitaler Technologien zum Klimaziel 2030 – insgesamt
+7CO2e-Einsparpotenzial und Beitrag zum Klimaziel (gesamt)
+Anmerkungen: a) Die Untersuchung differenziert die Einsparpotenziale und den Fußabdruck nach drei CO2e-Projektionen. Siehe Kapitel 3 und Kapitel 5 . Hier dargestellt ist die mittlere CO2e-Projektion; b) Differenziert 
+anhand unterschiedlicher Marktdurchdringungsraten ( siehe Seite 17 ); c) Siehe Kapitel 5 ; d) Berücksichtigt werden hier nicht die Emissionen aus Herstellung und End -of-Life der digitalen Technologien; e) Siehe S. 87; 
+f) Rebound -Effekte bezeichnen einen Mehrverbrauch nach Effizienzsteigerungen, der dazu führt, dass erwartete Einsparungen teilwe ise aufgehoben werden (siehe Kapitel 6 ); g) Politiken und Maßnahmen (PaMs) der 
+Bundesregierung –primär nicht -digitaler Art; h) Die quantitativen Effekte wurden nicht modelliert.[Alle Zahlen in MT CO2e bei mittlerer CO2e-Projektiona]
+Aktuelles 
+Minderungsziel für 
+das Klimaziel 2030Einsparpotenzial
+bei beschleunigter
+DigitalisierungEinsparpotenzial
+bei Standard -
+Digitalisierung
+CO2e-Fußabdruck der digitalen Technologienb,d308 MT CO2e
+73 MT CO2e50 MT CO2e16 %
+24 %
+NettoeffekteGegenläufige CO2e-Effekte: In dieser Studie 
+werden zwei gegenläufige CO2e-Klima -
+effekte der Digitalisierung untersucht: 
+Das CO2e-Einsparpotenzial, das mit 
+digitalen Technologien im Jahr 2030 erzielt werden kann und die Emissionen, die im Jahr 2030 durch den CO
+2e-Fußabdruck der 
+digitalen Technologien verursacht werden.
+CO2e-Einsparpotenzial: Unterschieden 
+wird zwischen zwei Digitalisierungs -
+geschwindigkeiten:bBei der Standard -
+Digitalisierung können digitale 
+Technologien ca. 51,5 MT CO2e zum 
+aktuellen Minderungsziel (308 MT CO2e) 
+des 2030 -Klimaziels beitragen; bei einer 
+beschleunigten Digitalisierung ca. 76,5 MT.b
+CO2e-Fußabdruck der digitalen 
+Technologien:cJede der betrachteten 
+digitalen Technologien erzeugt eine spezifische Menge an CO
+2e als ihren 
+Fußabdruck. Die Berechnung zeigt: In 2030 wird die Nutzung
+d der zugrundeliegenden 
+IT-Technologie, je nach Digitalisierungs -
+geschwindigkeit und CO2e-Projektion 0,8 –
+6,0 MT CO2e verursachen. In der Grafik dargestellt ist die mittlere CO2e-Projektion 
+mit 2,1– 3,8 MT CO2e.e
+CO2e-Nettoeffekt: Das Einsparpotenzial für 
+2030, abzüglich des Fußabdrucks, beträgt 49,5 bis 72,7 MT CO
+2e (16 –24%) –bei 
+Standard -bzw. beschleunigter 
+Digitalisierung.
+Rebound -Effekte: Der Beitrag zum 
+Erreichen des Klimaziels kann durch so -
+genannte Rebound -Effekte gemindert 
+werden.f
+Katalysator -Wirkung: Neben den in dieser 
+Studie beschriebenen Anwendungsfällen 
+haben digitale Technologien zusätzlich das Potenzial, die Maßnahmen
+gzur 
+Verringerung der CO2e-Emissionen im 
+Rahmen des Klimaschutzprogramms der deutschen Regierung wirksam zu unterstützen und zu beschleunigen. Dies kann z.B. durch den Einsatz von Softwarelösungen und digitalen Plattformen erreicht werden, die dazu beitragen, diese Klimaschutzmaßnahmen schneller und effektiver umzusetzen.
+h52 MT CO2e
+77 MT CO2eAnmerkung: a) In Relation zum Minderungsziel für das Klimaziel 2030 i.H.v. 308 MT CO2e.Digitalisierungsgeschwindigkeit als entscheidender Hebel: Eine beschleunigte 
+Digitalisierung ist über 47% effektiverBeitrag digitaler Technologien zum Klimaziel 2030 – entlang von CO2e-Projektionen
+8[Beitrag zum Klimaziel in Prozenta, absolutes netto CO2e-Einsparpotenzial in MT CO2e]CO2e-Einsparpotenzial und Beitrag zum Klimaziel
+CO2e-
+Einsparpotenzial 
+bei hoher 
+CO2e-ProjektionCO2e-
+Einsparpotenzial 
+bei mittlerer 
+CO2e-ProjektionCO2e-
+Einsparpotenzial 
+bei niedriger 
+CO2e-ProjektionCO2e-
+Einsparpotenzial 
+bei hoher 
+CO2e-ProjektionCO2e-
+Einsparpotenzial 
+bei mittlerer 
+CO2e-ProjektionCO2e-
+Einsparpotenzial 
+bei niedriger 
+CO2e-Projektion17%
+53 MT16%
+50 MT 14%
+43 MT26%
+80 MT24%
+73 MT
+20%
+62 MT47 %Bei Standard -Digitalisierung Bei beschleunigter DigitalisierungDigitalisierungsgeschwindigkeiten
+In der Studie wurden zwei Digitalisierungsgeschwindigkeiten 
+analysiert, um deren Auswirkungen auf das Erreichen der Klimaziele zu bewerten.
+Für die Standard -Digitalisierung wird bis 2030 eine steigende 
+Marktdurchdringung digitaler Technologien in Deutschland 
+erwartet, wobei Unternehmen, öffentliche Institutionen und Privatpersonen branchenübliche Standardlösungen nutzen. Bei beschleunigter Digitalisierung könnte diese Durchdringung schneller erfolgen, getrieben durch fortschrittliche Methoden und Maßnahmen, inspiriert von führenden Unternehmen, Ländern und ambitionierteren Prognosen.
+Die Ergebnisse der Studie zeigen, dass eine beschleunigte 
+Digitalisierung in allen betrachteten CO
+2e-Projektionen effektiver 
+ist, d.h. mit deutlich höheren CO2e-Einsparungen einhergeht. 
+Beispiel mittlere CO2e-Projektion: Bei beschleunigter Digitalisierung 
+steigen die Einsparungen von 50 auf 73 MT CO2e, also um 47%.Anmerkungen: a) Die Studie differenziert die Einsparpotenziale und den Fußabdruck der digitalen Technologien nach drei CO2e-Projektionen (siehe Kapitel 3 und Kapitel 5 ). Die konkreten sektorspezifischen CO2e-
+Projektionen finden sich in Kapitel 4 . Abweichungen in den Summen können aus Rundungen resultieren; b) Dargestellt sind die Werte der Standard -Digitalisierung und de r beschleunigten Digitalisierung (von –bis %); 
+c) Die betrachteten Wirkungshebel entfalten ihr CO2e-Einsparpotenzial primär bei erfolgreicher Energiewende, also mit sinkender CO2e-Projektion.Digitalisierung in den Sektoren Energie, Gebäude und Industrie hat den größten 
+Beitrag zum deutschen Klimaziel 2030Beitrag zum Klimaziel 2030 –Sektoren
+9Beitrag je Sektor und CO2e-Projektion
+Das größte Potenzial weisen die Sektoren Energie, Gebäude und 
+Industrie auf.
+Die Sektoren Energie und Gebäude können bis zu ~9-10% zum 
+Klimaziel beitragen; der Sektor Industrie bis zu ~5% (siehe Tabelle 
+unten).
+Die Beiträge unterscheiden sich je nach CO2e-Projektion und 
+Digitalisierungsgeschwindigkeit (siehe Tabelle).aBeitrag zum Erreichen des Klimaziels je Sektor
+[Netto Effekte bei mittlerer CO2e-Projektiona, alle Zahlen in Prozent]
+8,0%
+8,6%4,0%
+6,0%1,8%
+4,1%1,1%
+3,0%1,1%
+1,9%Einsparpotenzial
+bei beschleunigter
+DigitalisierungEinsparpotenzial
+bei Standard -
+Digitalisierung
+308 
+MT CO2e308 MT CO
+2e~16%
+~24%
+Energie Gebäude Industrie Verkehr LandwirtschaftSektorCO2e-Projektion: 
+HochCO2e-Projektion: 
+MittelCO2e-Projektion: 
+Niedrig
+Energiec6,2–6,7% 8,0–8,6% 8,1–8,7%
+Gebäude 6,4–9,4% 4,0–6,0% 2,3–3,4%
+Industrie 2,1–4,8% 1,8–4,1% 1,5–3,4%
+Verkehr 1,1 –3,0% 1,1–3,0% 1,1–2,9%
+Landwirtschaft 1,3–2,2% 1,1–1,9% 1,0–1,7%
+Gesamt 17,1–26,1% 16,1–23,6% 14,0 –20,2%Beitrag zum Erreichen des Klimaziels 2030 je CO2e-
+Projektion und Digitalisierungsgeschwindigkeita,bAnmerkungen: a) Die Studie differenziert die Einsparpotenziale und den Fußabdruck nach drei CO2e-Projektionen. Siehe Kapitel 3 und Kapitel 5 für weitere Details. Abweichungen in den Summen können aus Rundungen 
+resultieren; b) Dargestellt sind die Werte der Standard -Digitalisierung und der beschleunigten Digitalisierung; c) Siehe Sektorkapitel für mehr Details; d) Die betrachteten Wirkungshebel entfalten ihr CO2e-
+Einsparpotenzial primär bei erfolgreicher Energiewende, also mit sinkender CO2e-Projektion.Digitale Technologien können insgesamt 50 bis 73 MT CO2e im Jahr 2030 reduzieren 
+–abhängig von der DigitalisierungsgeschwindigkeitAbsolute CO2e-Einsparpotenziale
+10Einsparpotenzial je Sektor und CO2e-Projektion
+Digitalisierung kann bei mittlerer CO2e-Projektion bis zu 72,7 MT 
+CO2e reduzieren. Bei einer beschleunigten Digitalisierung ist der 
+Beitrag im Sektor Verkehr mit einem Anstieg von 3,5 auf 9,3 MT 
+CO2e besonders hoch (+166%). Ähnlich verhält es sich im 
+Industriesektor, wo die beschleunigte Digitalisierung mehr als das Doppelte an Einsparpotenzial bietet (+127%). In den folgenden Sektorkapiteln finden sich weitere Details zu den einzelnen Anwendungsfällen.CO2e-Einsparpotenzial (gesamt und je Sektor)
+[Netto Effekte bei mittlerer CO2e-Projektiona, in MT CO2e]
+Einsparpotenzial 2030 je CO2e-Projektionb,c und 
+Digitalisierungsgeschwindigkeit (in MT CO2e)49,5
+24,5
+12,4
+5,63,5 3,572,7
+26,4
+18,3
+12,7
+6,09,3
+Gesamt Energie Gebäude Industrie Landwirtschaft Verkehr+47%
++8%
++48%
++127%
++71%+166%Standard -Digitalisierung
+Beschleunigte Digitalisierung
+SektorCO2e-Projektion: 
+HochCO2e-Projektion: 
+MittelCO2e-Projektion: 
+Niedrig
+Energied19,1–20,5 24,5 –26,4 25,0 –26,9
+Gebäude 19,7–29,1 12,4–18,3 7,1–10,4
+Industrie 6,5–14,9 5,6–12,7 4,6–10,5
+Verkehr 3,9–6,6 3,5–6,0 3,1–5,3
+Landwirtschaft 3,5–9,1 3,5–9,3 3,4–9,1
+Gesamt 52,6 –80,3 49,5 –72,7 43,2 –62,214,4%
+15,5%Energie
+8,1%
+12,0%Gebäude
+7,5%
+12,9%Landwirtschaft
+2,7%
+6,1%Industrie
+2,1%
+5,5%Verkehr
+Anmerkungen: a) Die Studie differenziert die Einsparpotenziale und den Fußabdruck nach drei CO2e-Projektionen sowie zwei Digitalisierungsgeschwindigkeiten. Siehe Kapitel 3 und Kapitel 5 für weitere Details; 
+b) Dargestellt sind die Werte der Standard- Digitalisierung und der beschleunigten Digitalisierung (von –bis %); c) Entsprechen ni cht den CO2e-Projektionen des Umweltbundesamtes im Projektionsbericht 2023, sondern 
+denen, die durch den Einsatz der untersuchten digitalen Technologien in 2030 adressiert werden (siehe jeweilige Sektorkapitel ); d) Die betrachteten Wirkungshebel entfalten ihr CO2e-Einsparpotenzial primär bei 
+erfolgreicher Energiewende, also mit sinkender CO2e-Projektion.Größtes Einsparpotenzial in den Sektoren Energie, Gebäude und Landwirtschaft im 
+Hinblick auf die erwarteten SektoremissionenRelativer Beitrag innerhalb der Sektoren
+11Relatives Einsparpotenzial je CO2e-Projektion
+Der relative Beitrag beschreibt, welcher Anteil der für das Jahr 2030 
+projizierten Emissionen in einem bestimmten Sektor durch die Anwendung digitaler Technologien potenziell gesenkt werden kann. Für den Energiesektor wird das höchste relative Einsparpotenzial prognostiziert: 14,4% bei der Standard -Digitalisierung, mit Anstieg 
+auf 15,5% bei beschleunigter Digitalisierung. Verhältnismäßig niedrig ist das relative Einsparpotenzial im Sektor Verkehr.Relatives Einsparpotenzial je Sektor
+[Netto Effekte bei mittlerer CO2e-Projektiona in Prozent; Projektion in MT CO2e]
+Relativer Beitrag je CO2e-Projektion für 2030 und 
+Digitalisierungsgeschwindigkeita,b 
+Standard -Digitalisierung
+Beschleunigte Digitalisierung170
+153
+46
+207
+169CO2e-Projektion 
+2030c
+[in MT CO2e]
+SektorCO2e-Projektion: 
+HochCO2e-Projektion: 
+MittelCO2e-Projektion: 
+Niedrig
+Energied6,8–7,4% 14,4– 15,5% 41,0 –44,1%
+Gebäude 9,0–13,3% 8,1–12,0% 7,1–10,4%
+Landwirtschaft 7,5–12,9% 7,5–12,9% 7,6–13,1%
+Industrie 2,6–5,9% 2,7–6,1% 2,9–6,6%
+Verkehr 2,0–5,2% 2,1–5,5% 2,1–5,7%Beschreibung
+Die Marktdurchdringung gibt an, in welchem Ausmaß 
+ein konkreter Anwendungsfall digitaler Technologien (z.B. Simulationen durch digitale Zwillinge) durch Unternehmen, öffentliche Institutionen oder Privatpersonen umgesetzt wird.
+b
+Die Studienergebnisse zeigen einen signifikanten Anstieg der Marktdurchdringung in den Bereichen smarte Erzeugung erneuerbarer Energien und Smart Grids, mit Steigerungenvon 56 bzw. 40 Prozentpunkten. Auch Smart Home erfährt eine starke Verbreitung, bei einer Ausgangslage von 12% in 2023 und einer projizierten Marktdurchdringung von 49% für 2030.
+Im Gegensatz dazu wird im Verkehrssektor nur ein moderater 
+Anstieg digitaler Technologien erwartet, da hier die Markt -
+durchdringung digitaler Lösungen, z.B. Telematiksysteme für die digitale Routen- und Frachtoptimierung in der Logistik, bereits 
+heute eine vergleichsweise hohe Marktdurchdringung aufweisen. Zunehmende Verbreitung von digitalen Technologien zur smarten Erzeugung 
+erneuerbarer Energien, für Smart Grids und für Smart Home bis 2030Marktdurchdringung der digitalen Technologien
+12Marktdurchdringung der digitalen Technologiena(in 2023 und 2030)
+[Balken in Prozent; Anstiege in Prozentpunkten]
+Smarte
+Erzeugung
+erneuerbarer
+EnergienSmart
+GridsSmart 
+HomeIntelligente 
+Boden -
+bewirtschaftungVernetzte 
+GebäudeIntelligente 
+Nutztier -
+haltungDigitaler 
+ZwillingAutomatisierung Digitale
+Verkehrs -
+netzeDigitale 
+Routen -
+u. Fracht -
+optimierung25%81%
+1%41%
+12%49%
+29%57%
+34%60%
+18%41%
+26%40%
+21%34%44%54%
+37%46%
+Anmerkungen: a) Die Studie differenziert zwischen zwei Digitalisierungsgeschwindigkeiten. Dargestellt sind die Marktdurchdrin gungen der Standard -Digitalisierung. Die erwarteten Marktdurchdringungen bei der 
+beschleunigten Digitalisierung sind höher (siehe Sektorkapitel ); b) In der Studie wird zwischen Anwendungsfällen und digitalen Technologien differenziert. Anwendungsfälle stellen konkrete Umsetzungen von 
+Unternehmen, öffentlichen Institutionen oder Privatpersonen dar, wo in der Regel mehrere digitale Technologien in Kombination zur Anwendung kommen.+56 +40 +37 +14 +13 +10 +9 +28 +26 +23
+Marktdurchdringung in 2023
+Marktdurchdringung in 2030 (bei Standard- Digitalisierunga)
