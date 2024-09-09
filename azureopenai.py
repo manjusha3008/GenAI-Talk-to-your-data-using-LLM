@@ -6,10 +6,10 @@ import os
 import openai
 from langchain_community.chat_models import AzureChatOpenAI
 
-OPENAI_DEPLOYMENT_NAME = "gpt-35-turbo-chatxipt-analysis"
+OPENAI_DEPLOYMENT_NAME = ""
 
-os.environ["AZURE_OPENAI_ENDPOINT"] = "https://xit-openai-exploration-projects.openai.azure.com/"
-os.environ["AZURE_OPENAI_API_KEY"] = "fe33c38349284de390fdf816a99976cc"
+os.environ["AZURE_OPENAI_ENDPOINT"] = ""
+os.environ["AZURE_OPENAI_API_KEY"] = ""
 
 llm = AzureChatOpenAI(deployment_name=OPENAI_DEPLOYMENT_NAME,
                            temperature=os.environ.get("TEMPERATURE", 0),
